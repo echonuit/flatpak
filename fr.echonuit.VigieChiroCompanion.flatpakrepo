@@ -1,0 +1,7 @@
+[Flatpak Repo]
+Title=VigieChiro Companion (dépôt auto-hébergé)
+Url=https://flatpak.echonuit.fr/
+Homepage=https://companion.echonuit.fr/
+Comment=En attendant l'acceptation sur Flathub (#2191)
+Description=Publié depuis ce dépôt à chaque montée de version. Signé (clé 1BA6A82DA9213B177B160E56CD450A9383707B17).
+GPGKey=mDMEan/0/xYJKwYBBAHaRw8BAQdAIzCR3zsyTFIBAAb0jho1b+mwF6+LYJAVdTHNCnb6wTS0KlZpZ2llQ2hpcm8gQ29tcGFuaW9uIChmbGF0cGFrLmVjaG9udWl0LmZyKYiQBBMWCgA4FiEEG6aoLakhOxd7Fg5WzUUKk4NwexcFAmp/9P8CGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQzUUKk4Nwexd0sAEA92YvhZ23QuIbI0M5rqCOfFz+XEHJVPeN6iSNXXNbYfMA/0enBKQEjCWXvvtwO8z0+v1LKoRIekNeRcCSHi2S7qQB
